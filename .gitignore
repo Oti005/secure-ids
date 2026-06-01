@@ -17,3 +17,5 @@ backend/model/label_encoder.pkl
 .vscode/
 
 MachineLearningCVE/
+
+MachineLearningCSV.zip
